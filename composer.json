@@ -8,7 +8,7 @@
     "Archive"
   ],
   "homepage": "http://github.com/fengzi91/zipper",
-  "license": "Apache2",
+  "license": "MIT",
   "authors": [
     {
       "name": "Nils Plaschke",
